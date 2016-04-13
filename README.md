@@ -1,10 +1,13 @@
 Tools
 =====
 
-create-project
---------------
-Create a new shlib project.
+Examples
+--------
 
+```sh
+mkdir foo; cd foo
+shlib create-project
+shlib create-front-end foo
+shlib add-command foo bar
 ```
-Usage: shlib create-project [--name=<name>] <path>
-```
+
