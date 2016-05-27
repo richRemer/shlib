@@ -1,6 +1,6 @@
 {
   "name": "shlib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "shell library",
   "author": "Richard Remer (reanjr@gmail.com)",
   "license": "MIT"
